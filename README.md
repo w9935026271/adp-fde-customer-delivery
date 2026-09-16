@@ -55,7 +55,7 @@
 
 ## 安装
 
-直接跟你的 AI Agent 说：
+### 方法一：直接跟你的 AI Agent 说：
 
 帮我从这个仓库安装 Skill：
 https://github.com/w9935026271/adp-fde-customer-delivery
