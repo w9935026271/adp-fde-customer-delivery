@@ -55,7 +55,12 @@
 
 ## 安装
 
-### 方法一：下载 ZIP
+直接跟你的 AI Agent 说：
+
+帮我从这个仓库安装 Skill：
+https://github.com/w9935026271/adp-fde-customer-delivery
+
+### 方法二：下载 ZIP
 
 1. 在仓库页面点击 `Code`；
 2. 选择 `Download ZIP`；
@@ -66,7 +71,7 @@
 ~/.codex/skills/adp-fde-customer-delivery
 ```
 
-### 方法二：使用 Git
+### 方法三：使用 Git
 
 在仓库页面点击 `Code` 并复制仓库地址，然后运行：
 
@@ -146,8 +151,3 @@ git clone 复制到的仓库地址 ~/.codex/skills/adp-fde-customer-delivery
     └── solution-selection.md
 ```
 
-## 说明
-
-本项目提炼的是客户交付方法、决策规则、检查表和文档模板，不包含腾讯云课程视频，也不应收录大段受版权保护的教材原文。公开发布或二次分发前，请确认相关内容的使用授权。
-
-当前仓库未声明开源许可证。在添加明确许可证之前，默认不代表任何人可以自由复制、修改或再分发其中内容。
