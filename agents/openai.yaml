@@ -1,0 +1,4 @@
+interface:
+  display_name: "ADP FDE 客户项目助手"
+  short_description: "辅助腾讯云 ADP 客户需求对接、方案、实施、调试与验收"
+  default_prompt: "请根据现有客户材料判断项目阶段，区分已确认、推断和待确认事项，并产出当前最需要的 FDE 交付物。"
